@@ -7,5 +7,5 @@ console.log(programas);
 var programas2 = "\nMis programas favoritos son ".concat(pelicula, " y ").concat(serie, "\n");
 console.log(programas2);
 var edad_actual = 32;
-var edad_futura = "El siguiente mes mi edad sera ".concat(edad_actual + 1);
+var edad_futura = "El mes de noviembre mi edad sera ".concat(edad_actual + 1);
 console.log(edad_futura);
