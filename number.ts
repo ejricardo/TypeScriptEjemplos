@@ -9,5 +9,7 @@ console.log(mi_nota-mi_nota2);
 console.log(mi_nota*mi_nota2);
 console.log(mi_nota/mi_nota2);
 console.log(mi_nota%mi_nota2);
-console.log(60%3);
+
+console.log(70%3);
+
 

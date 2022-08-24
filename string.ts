@@ -15,5 +15,5 @@ Mis programas favoritos son ${pelicula} y ${serie}
 `
 console.log(programas2)
 let edad_actual = 32;
-let edad_futura: string = `El siguiente mes mi edad sera ${edad_actual +1}`
+let edad_futura: string = `El mes de noviembre mi edad sera ${edad_actual +1}`
 console.log(edad_futura);
